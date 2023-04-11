@@ -1,33 +1,21 @@
-# vue-text-converter
+[![LIJS Logo](https://raw.githubusercontent.com/longislandjavascript/longislandjavascript/main/public/logo.png)](https://www.lijs.org)
 
-## A demo Vue application for the Long Island Javascript Meetup up (Oct. 2018)
+# Meetup Event: October 2018
+### Let's build a Vue app!
 
-## Project setup
+[View Event on Meetup](https://www.meetup.com/long-island-javascript/events/zjlpklyxnbpc/)
 
-```
-yarn install
-```
+This repo contains the resources for this event.
 
-### Compiles and hot-reloads for development
+![Event Graphic](event-graphic.png)
 
-```
-yarn run serve
-```
 
-### Compiles and minifies for production
+___
 
-```
-yarn run build
-```
+### ABOUT OUR GROUP:
 
-### Run your tests
+Long Island JavaScript is a Meetup group in the Long Island, NY area. We meet on the last Wednesday of each month to discuss and learn about a range of topics and technologies around the JavaScript ecosystem. All skill levels are welcome. Visit our [Meetup page](https://www.meetup.com/long-island-javascript/) to join the group and RSVP for our next event.
 
-```
-yarn run test
-```
+🔗 https://www.meetup.com/long-island-javascript/
 
-### Lints and fixes files
-
-```
-yarn run lint
-```
+🔗 https://www.lijs.org
